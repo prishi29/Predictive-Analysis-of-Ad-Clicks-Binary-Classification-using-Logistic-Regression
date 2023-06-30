@@ -1,0 +1,2 @@
+# Predictive-Analysis-of-Ad-Clicks-Binary-Classification-using-Logistic-Regression
+The objective of this project is to develop a predictive model for ad click binary classification. The model aims to classify whether a user will click on an ad or not, based on several features. Logistic Regression, a widely used machine learning algorithm for binary classification, will be employed to accomplish this task.
